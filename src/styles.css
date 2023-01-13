@@ -448,7 +448,7 @@ footer {
     font-size: 15px;
   }
   .dropdown-container {
-    padding: 10px 5px;
+    padding: 5px 5px;
   }
 
   .navbar-nav-items {
@@ -530,6 +530,8 @@ footer {
 
   .footer-row-2 {
     padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 50px;
     justify-content: space-between;
     align-items: flex-start;
     flex-wrap: nowrap;
@@ -552,7 +554,11 @@ footer {
   .column-2 > p,
   .column-3 > p,
   .column-4 > p {
-    padding-bottom: 12px;
+    padding-bottom: 15px;
+  }
+
+  div.footer-row-3 > .dropdown-container {
+    padding: 10px 5px;
   }
 }
 
