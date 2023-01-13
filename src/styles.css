@@ -464,6 +464,7 @@ footer {
   .form-container {
     width: 75%;
   }
+
   .email-form-container {
     flex-direction: row;
     align-items: center;
@@ -514,6 +515,10 @@ footer {
   }
   .FAQ-email {
     transform: translateX(16%);
+  }
+
+  .FAQ-email > .email-form-container > .form-container {
+    width: 55%;
   }
 
   footer {
