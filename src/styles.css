@@ -448,7 +448,7 @@ footer {
     font-size: 15px;
   }
   .dropdown-container {
-    padding: 5px 5px;
+    padding: 10px 5px;
   }
 
   .navbar-nav-items {
@@ -522,22 +522,37 @@ footer {
   }
 
   footer {
-    padding: 2rem 20rem;
+    padding: 2rem 13rem;
     justify-content: flex-start;
     text-align: left;
     align-items: flex-start;
   }
 
   .footer-row-2 {
+    padding-top: 15px;
     justify-content: space-between;
     align-items: flex-start;
     flex-wrap: nowrap;
+    gap: 100px;
   }
 
   .footer-row-1,
   .footer-row-3,
   .footer-row-4 {
     align-self: flex-start;
+  }
+
+  .column-1,
+  .column-2,
+  .column-3,
+  .column-4 {
+    width: 100%;
+  }
+  .column-1 > p,
+  .column-2 > p,
+  .column-3 > p,
+  .column-4 > p {
+    padding-bottom: 12px;
   }
 }
 
