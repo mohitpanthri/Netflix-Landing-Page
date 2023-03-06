@@ -5,8 +5,8 @@ Netflix Landing Page Clone made with HTML, CSS and JAVASCRIPT. I have also made 
 
 <br>
 
-## Watch the Live [Demo](https://netflix-landing-page1.netlify.app/)  
-<sup>Status:</sup>  [![Website Status](https://api.netlify.com/api/v1/badges/241fb6d9-c546-4159-8d34-db9ed74ed795/deploy-status)](https://app.netlify.com/sites/netflix-landing-page1/deploys)
+## Watch the Live [Demo](https://netflix-landing-page-clone-website.netlify.app/)  
+<sup>Status:</sup>  [![Netlify Status](https://api.netlify.com/api/v1/badges/241fb6d9-c546-4159-8d34-db9ed74ed795/deploy-status)](https://app.netlify.com/sites/netflix-landing-page-clone-website/deploys)
 
 <br>
 
